@@ -6,3 +6,4 @@ for i in data:
     else:
         out.append((i,"odd"))
 print(out)
+print("add new line")
