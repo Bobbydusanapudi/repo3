@@ -1,0 +1,2 @@
+this normal line in  the git_1
+hi
