@@ -7,3 +7,4 @@ for i in data:
         out.append((i,"odd"))
 print(out)
 print("add new line")
+print("file")
